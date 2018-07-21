@@ -13,3 +13,7 @@ The memory game, or concentration, is a popular card game played by children and
 * Keep revealing cards until finish
 * Match cards properly with less moves and in faster time
 
+## Acknowledgments
+
+ * I followed the steps in the next tutorial: https://scotch.io/tutorials/how-to-build-a-memory-matching-game-in-javascript
+ 
